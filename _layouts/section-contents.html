@@ -11,5 +11,9 @@ layout: gift-wrap
 
 
 <div class="right">
-    {% include_relative la-teachers.markdown %}
+  <div class="section-header">
+      <h1 class="section"> {{ page.righttitle }} </h1>
+  </div>
+  {% capture my_include %}{% include_relative la-teachers.markdown %}{% endcapture %}
+  {{ my_include | markdownify }}
 </div>
