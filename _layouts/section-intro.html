@@ -1,0 +1,33 @@
+---
+layout: gift-wrap
+---
+
+<style>
+    .left {
+        background: darksalmon;
+        color: black;
+    }
+</style>
+
+<div class="left">
+    <div class="section-header">
+        <h1 class="section"> {{ page.title }} </h1>
+    </div>
+    {{ content }}
+</div>
+
+<div class="right">
+    <div class="section-header">
+        <h1 class="section"> {{ page.title }} </h1>
+    </div>
+
+    <div class="toc-stack">
+        <div class="toc-items">
+            {% for item in page.types %}
+            <button class="toc"> <a href="{{"{{item.url}}/{{item.url}}.html" | relative_url}}"> {{item.name}} </a>
+            </button>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>

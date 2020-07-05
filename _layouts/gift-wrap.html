@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title> Direct Action for Prison Abolition </title>
+
+    <link rel="stylesheet" type="text/css" href="{{"/assets/css/layout.css" | relative_url}}">
+    <link href="https://fonts.googleapis.com/css2?family=Miniver&display=swap" rel="stylesheet">
+
+    <!-- <style>
+        .left {
+            background: darksalmon;
+        }
+    </style> -->
+</head>
+
+<body>
+    <div class="gift-wrap">
+        {{ content }}
+    </div>
+
+
+    <footer class="bottom">
+        <ul class="nav">
+            <li class="standout"> <a href="{{"colophon.html" | relative_url}}"> Direct Action for Prison Abolition </a> </span> </li>
+            <li> <img src="{{"/assets/squiggly-arrow.png" | relative_url}}" alt="long arrow pointing right"> </li>
+            <li> <a href="/" class="nav">Cover</a> </li>
+            <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
+            <!-- <li> (Current Page Title) </li> -->
+            <li> <a onclick="goBack()" class="nav"> Back </a> </li>
+        </ul>
+        </div>
+
+        <script>
+            function goBack() {
+                window.history.back();
+            }
+        </script>
+
+</body>
