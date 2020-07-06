@@ -1,7 +1,7 @@
 ---
 layout: section-contents
 title: Bus Drivers
-righttitle: LA Teacher's Riot
+righttitle: LA Teacher's Strike
 ---
 
 ## Solidarity with George Floyd protesters from Minneapolis Bus Drivers
