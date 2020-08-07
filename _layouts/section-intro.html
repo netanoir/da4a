@@ -4,14 +4,32 @@ layout: gift-wrap
 
 <style>
     .left {
-        background: darksalmon;
+        background: darksalmon url('{{"/assets/photo/ferguson-halftone.png" | relative_url}}');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
         color: black;
+    }
+
+    p a {
+        color: black !important;
+        border-bottom: 2px solid black !important;
+    }
+
+    p a:hover {
+        border-bottom: 0px !important;
+    }
+
+    p {
+        background-color: darksalmon;
+        padding: 5%;
+        transform: rotate(-1deg);
     }
 </style>
 
 <div class="left">
     <div class="section-header">
-        <h1 class="section"> {{ page.title }} </h1>
+        <h1 class="section-fill"> {{ page.title }} </h1>
     </div>
     {{ content }}
 </div>

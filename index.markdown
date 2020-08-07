@@ -12,7 +12,7 @@ layout: cover
 </div>
 
 <div class="credit">
-<h2 class="credit"> Free Them All for Public Health </h2>
+<h2 class="credit"> Community Justice Exchange </h2>
 <h2 class="credit asterisk"> * </h2>
 <h2 class="credit"> National Bail Fund Network </h2>
 </div>
