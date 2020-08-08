@@ -4,6 +4,7 @@ title: Introduction
 types:
   - name: Intro-duction
     url: contents
+    numUrl: contents
   - name: Debt Strikes
     url: debt-strikes
     numUrl: 1-debt-strikes
@@ -20,6 +21,7 @@ types:
     url: labor-strikes
     numUrl: 5-labor-strikes
   - name: Questions
+    url: questions
     numUrl: questions
 ---
 
