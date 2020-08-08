@@ -33,7 +33,7 @@ During those earlier stages of the pandemic, we saw policing reduce dramatically
 
 ![A sidewalk mural which says "abolition is a act of creation" surrounded in green vines and yellow flowers.
 ](/da4a/assets/photo/abolition-is-a-act-of-creation.jpg)
-> A sidewalk mural which says "abolition is a act of creation" surrounded in green vines and yellow flowers. Image via [Andrew Ratto / Wikimedia](https://commons.wikimedia.org/w/index.php?curid=92698146).
+> A sidewalk mural which says "abolition is a act of creation" surrounded in green vines and yellow flowers. Image via [Andrew Ratto/Wikimedia](https://commons.wikimedia.org/w/index.php?curid=92698146).
 
 We wondered: If the Prison-Industrial-Complex is shrinking despite itself, can we ensure that it continues to do so?
 
@@ -44,7 +44,7 @@ In that context, we wondered how abolitionist organizing and direct action could
 Now, our context changes still. Weeks of living with the dual realities of continued viral spread as well as a massive, nationwide uprising against the police and anti-blackness have led to demands to defund the police becoming mainstream, and national conversations about the practicality of prison abolition. There is a palpable excitement for direct action, in solidarity with protesters, and with those who face the brunt of criminalization. 
 
 ![This cardboard sign is a rectangular piece of cardboard with handwritten text in black marker. The text reads "Power to the People". There is a narrow flat stick of wood as a handle mounted to the back with adhesive. There are also four strips of black tape across the handle and the back of the sign. There are two names written on the back.](/da4a/assets/photo/power-to-the-people.jpg)
-> A protest sign which says, "power to the people." Image via Collection of the Smithsonian National Museum of African American History and Culture, Gift of Studio A Modeling, Etiquette and Dance Academy of Baltimore, MD.
+> A protest sign which says, "power to the people." Image via Collection of the Smithsonian National Museum of African American History.
 
 How do we up the ante? What would a strategic escalation of tactics from prison abolitionists look like in the courtrooms, in jails, prisons? **How can we disrupt and shut down the criminal legal system, short or long term, as part of a broader campaign to #FreeThemAll and #DefundPolice?**
 

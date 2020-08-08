@@ -6,7 +6,7 @@ pair-url: 2000-imf-world-bank
 ---
 
 ![TK TK](reflections-on-seattle.png)
-> All photos via Inteference Archive.
+> All images via [Inteference Archive](https://interferencearchive.org/).
 
 Collective negotiation and mass non-cooperation yielded different results at two mass mobilizations in Seattle and Washington, DC.
 

@@ -8,7 +8,7 @@ pair-url: aunti-nuclear-movement
 In July 2019, following years of indigenous organizing and litigation, Hawaii’s governor’s announcement that construction of a controversial $1.4-billion telescope on a mountain sacred to Native Hawaiians was imminent. More than 30 indigenous elders, many in their 70s and 80s, set up camp at the base of the mountain and used their bodies to block access to the road. Further up the road, seven Native Hawaiians chained themselves to a cattle guard, forming a second line of defense.
 
 ![No TMT sign by H. Doug Matsuoka](no-tmt-sign.jpg)
-> 5/31/15 Protect Mauna Kea at Hawaii Kai and Hanauma Bay. Photo via Doug Matsuoka/Flickr.
+> Protect Mauna Kea at Hawaii Kai and Hanauma Bay, May 31, 2015. Image via [Doug Matsuoka/Flickr](https://www.flickr.com/photos/hdoug/).
 
 Police picked up and carried away the elders; others were taken away in wheelchairs while younger protesters wept and pleaded with police.
 
@@ -21,7 +21,7 @@ After being cited and released, the elders returned to their seats in the road.
 In the following days, some 2,000 people joined the first wave of protesters. The encampment, which held prayer ceremonies three times a day and included a medic tent and kitchen, gained international attention. 
 
 ![Protect Mauna Kea graphic by Dignidad Rebelde.](dignidad-rebelde.jpg)
-> Protect Mauna Kea graphic by Dignidad Rebelde.
+> Protect Mauna Kea graphic. Image via [Dignidad Rebelde/Flickr](https://www.flickr.com/photos/dignidadrebelde/).
 
 
 Opposition to the new Thirty Meter Telescope (TMT) and other telescopes on Mauna Kea had been mounting for years and decades. The newest proposal for a telescope set off centuries-old tensions around land rights, colonization and indigenous sovereignty. Before the occupation, lawsuits had been filed, and environmental impact statements submitted. 
@@ -32,7 +32,7 @@ As scientists who otherwise supported the building of the TMT grew uncomfortable
 The letter’s authors asked fellow astronomers to consider “the methods by which we are getting the telescope on the mountain in the first place.”
 
 ![TKTK](blockade-2014.jpg)
-> On October 7, 2014 Hawaiian cultural practitioners, environmentalists, and activists gather to stand in solidarity against the groundbreaking ceremony for the Thirty Meter Telescope (TMT). #buildingTMT #aoleTMT. Photo via Occupy Hilo/Flickr.
+> On October 7, 2014 Hawaiian cultural practitioners, environmentalists, and activists gather to stand in solidarity against the groundbreaking ceremony for the Thirty Meter Telescope (TMT). #buildingTMT #aoleTMT. Image via [Occupy Hilo/Flickr](https://www.flickr.com/photos/occupyhilo/15512231342/).
 
 “Armed or not, the military and the police have become involved in the project’s deliberations with the protectors of Mauna Kea,” they wrote. The letter urged fellow astronomers “to consider whether the future of our field is worth the damage to our relationship” to Native Hawaiians.
 
