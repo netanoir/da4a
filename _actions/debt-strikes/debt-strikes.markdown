@@ -2,10 +2,10 @@
 layout: section-intro
 title: Debt Strikes
 types:
-  - name: Student Loan Strike
-    url: student-loan-strike
   - name: Medical Debt RIP
     url: medical-debt-rip
+  - name: Student Loan Strike
+    url: student-loan-strike
 ---
 
 

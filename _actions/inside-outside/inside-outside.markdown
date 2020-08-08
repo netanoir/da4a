@@ -2,12 +2,12 @@
 layout: section-intro
 title: Inside / Outside Actions
 types:
-  - name: Hearts on a Wire
-    url: hearts-on-a-wire
-  - name: Free Joan Little
-    url: free-joan-little
   - name: Bristol Immigra-tion Jail
     url: bristol-immigration-jail
+  - name: Free Joan Little
+    url: free-joan-little
+  - name: Hearts on a Wire
+    url: hearts-on-a-wire
   - name: HIV/AIDS in Prison
     url: hiv-aids-in-prison
 ---

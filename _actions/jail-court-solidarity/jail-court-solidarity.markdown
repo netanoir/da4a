@@ -2,14 +2,14 @@
 layout: section-intro
 title: Jail &amp; Court Solidarity Actions
 types:
+  - name: 2000 IMF/World Bank
+    url: 2000-imf-world-bank
   - name: Free Speech Fights
     url: free-speech-fights
   - name: Jail, No Bail
     url: jail-no-bail
   - name: Seattle WTO
     url: seattle-wto
-  - name: 2000 IMF/World Bank
-    url: 2000-imf-world-bank
 ---
 
 *The following includes excerpts from “*[*Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements*](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars)*, by Kris Hermes.”*  

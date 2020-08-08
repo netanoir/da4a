@@ -2,10 +2,10 @@
 layout: section-intro
 title: Encampments
 types:
-  - name: Mauna Kea
-    url: mauna-kea
   - name: Anti-Nuclear Movement
     url: anti-nuclear-movement
+  - name: Mauna Kea
+    url: mauna-kea
 ---
 
 An encampment — sometimes referred to as an “occupation” or “[temporary autonomous zone](https://beautifultrouble.org/theory/temporary-autonomous-zone/)” — is a tactic where organizers reclaim and take over a public or privatized space. In an encampment, inhabiting physical space is a means used to achieve change, and to construct pre-figurative counter-spaces in which protesters express new ways of relating to a place and being in community. 
