@@ -5,15 +5,15 @@ types:
   - name: Intro-duction
     url: contents
   - name: Debt Strikes
-    url: 0debt-strikes
+    url: 1-debt-strikes
   - name: Encamp-ments
-    url: 0encampments
+    url: 2-encampments
   - name: Inside / Outside Actions
-    url: 0inside-outside
+    url: 3-inside-outside
   - name: Jail &amp; Court Solidarity Actions
-    url: 0jail-court-solidarity
+    url: 4-jail-court-solidarity
   - name: Labor Strikes
-    url: 0labor-strikes
+    url: 5-labor-strikes
   - name: Questions
     url: questions
 ---
