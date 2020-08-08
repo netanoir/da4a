@@ -20,11 +20,46 @@
 
     <footer class="bottom">
         <ul class="nav">
-            <li class="standout"> <a href="{{"colophon.html" | relative_url}}"> Direct Action for Prison Abolition </a> </span> </li>
-            <!-- <li> <img src="{{"/assets/squiggly-arrow.png" | relative_url}}" alt="long arrow pointing right" class="arrow"> </li> -->
+            <li class="standout"> <a href="{{"colophon.html" | relative_url}}"> Direct Action for Prison Abolition </a> </li>
+
+            {% capture actions %}{{page.collection}}{% endcapture %}
+
+                {% if page.collection %}
+                  {% assign  document = site[actions] %}
+                {% endif %}
+              
+              {% for links in document  %}
+                {% if links.title == page.title %}
+                  {% unless forloop.first %}
+                    {% assign prevurl = prev.url %}
+                  {% endunless %}
+                  {% unless actions.last.url %}
+                    {% assign next = document[forloop.index] %}
+                    {% assign nexturl = next.url %}
+                  {% endunless %}
+                {% endif %}
+                {% assign prev = links %}
+                {% if page.collection %}
+                  {% assign  document = site[actions] %}
+                {% endif %}
+              
+              {% for links in document  %}
+                {% if links.title == page.title %}
+                  {% unless forloop.first %}
+                    {% assign prevurl = prev.url %}
+                  {% endunless %}
+                  {% unless actions.last.url %}
+                    {% assign next = document[forloop.index] %}
+                    {% assign nexturl = next.url %}
+                  {% endunless %}
+                {% endif %}
+                {% assign prev = links %}
+              {% endfor %}{% endfor %}
+
+            <li> {% if prevurl %}<a href="{{ prevurl | relative_url}}"> Back </a>{% endif %} </li>
             <li> <a href="{{"index.html" | relative_url}}" class="nav">Cover</a> </li>
             <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
-            <li> <a onclick="goBack()" class="nav"> Next </a> </li>
+            <li> {% if nexturl %} <a href="{{ nexturl | relative_url }}"> Next </a> {% endif %} </li>
         </ul>
         </div>
 

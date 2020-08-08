@@ -4,16 +4,16 @@ title: Introduction
 types:
   - name: Intro-duction
     url: contents
-  - name: Labor Strikes
-    url: labor-strikes
   - name: Debt Strikes
     url: debt-strikes
   - name: Encamp-ments
     url: encampments
-  - name: Jail &amp; Court Solidarity Actions
-    url: jail-court-solidarity
   - name: Inside / Outside Actions
     url: inside-outside
+  - name: Jail &amp; Court Solidarity Actions
+    url: jail-court-solidarity
+  - name: Labor Strikes
+    url: labor-strikes
   - name: Questions
     url: questions
 ---
