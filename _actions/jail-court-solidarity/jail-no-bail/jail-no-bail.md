@@ -16,8 +16,8 @@ According to the SNCC’s digital archive, “Supporters believed it would ‘sh
 
 This tactic debuted in 1961, following a sit-in where 10 African American students in Rock Hill, South Carolina were arrested for ordering food at a segregated lunch counter.
 
-![SNCC Logo](sncc-logo-inverted.png)
-> Student Non-violent Coordinating Committee logo
+![A black and white pin-back button with text. In two arcs around the top and bottom edges of the button face are black blocks with white text. In the middle, centered, is black text. The text reads: [STUDENT NONVIOLENT / WE / SHALL / OVERCOME / COORDINATING / COMMITTEE]. On the reverse are two small white stickers. One is round with the number [225] and the other rectangular with two lines of text: [rear / 6936]. The revers has a pin with a fastener.](sncc-button.jpg)
+> Student Non-violent Coordinating Committee pinback button that says, "we shall overcome." Image via the Collection of the Smithsonian National Museum of African American History and Culture.
 
 Nine of the ten refused to bail out. In a statement at the time, they demanded jail time rather than bond, insisting that paying bail or fines indicates acceptance of and financial support for an immoral system, and validates their own arrests.
 

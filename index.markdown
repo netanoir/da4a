@@ -12,7 +12,7 @@ layout: cover
 </div>
 
 <div class="credit">
-<h2 class="credit"> Community Justice Exchange </h2>
+<h2 class="credit"> <a href="https://www.communityjusticeexchange.org/" target="_blank" style="border-bottom: 0px !important;">Community Justice Exchange</a> </h2>
 <h2 class="credit asterisk"> * </h2>
-<h2 class="credit"> National Bail Fund Network </h2>
+<h2 class="credit"> <a href="https://www.communityjusticeexchange.org/nbfn-directory" target="_blank" style="border-bottom: 0px !important;">National Bail Fund Network</a> </h2>
 </div>

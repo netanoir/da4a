@@ -186,7 +186,7 @@ h2.asterisk {
 }
 
 .asterisk:hover {
-    transform: rotate(180deg);
+    transform: rotate(160deg);
 }
 
 h2.credit:last-of-type::before {

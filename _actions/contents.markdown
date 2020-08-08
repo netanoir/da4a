@@ -24,6 +24,10 @@ In April, when the world began to reckon with Covid-19, writer Arundhati Roy cha
 
 During those earlier stages of the pandemic, we saw policing reduce dramatically, arrest rates plummet in many places, and court dates canceled. Some people who would have been taken into custody, prior to the pandemic, were not. At the same time, government officials with control over jails and prisons felt increasing pressure to release at least some people who were locked up, due to the rampant spread of Covid-19. 
 
+![A sidewalk mural which says "abolition is a act of creation" surrounded in green vines and yellow flowers.
+](/da4a/assets/photo/abolition-is-a-act-of-creation.jpg)
+> A sidewalk mural which says "abolition is a act of creation" surrounded in green vines and yellow flowers. Image via [Andrew Ratto / Wikimedia](https://commons.wikimedia.org/w/index.php?curid=92698146).
+
 We wondered: If the Prison-Industrial-Complex is shrinking despite itself, can we ensure that it continues to do so?
 
 We also saw, simultaneously, the creep of technologies of surveillance and social control (like GPS tracking apps and ankle shackles mandated for release) expanding and normalizing extra-carceral control. Over time, as political decisions continue to prioritize systems of punishment over all other government functions, these technologies have only more closely merged criminalizing tracking tools with those that are marketed for virus contact-tracing.
@@ -31,6 +35,9 @@ We also saw, simultaneously, the creep of technologies of surveillance and socia
 In that context, we wondered how abolitionist organizing and direct action could influence and even make permanent shrinkages to existing carceral systems, and prevent new ones from forming.
 
 Now, our context changes still. Weeks of living with the dual realities of continued viral spread as well as a massive, nationwide uprising against the police and anti-blackness have led to demands to defund the police becoming mainstream, and national conversations about the practicality of prison abolition. There is a palpable excitement for direct action, in solidarity with protesters, and with those who face the brunt of criminalization. 
+
+![This cardboard sign is a rectangular piece of cardboard with handwritten text in black marker. The text reads "Power to the People". There is a narrow flat stick of wood as a handle mounted to the back with adhesive. There are also four strips of black tape across the handle and the back of the sign. There are two names written on the back.](/da4a/assets/photo/power-to-the-people.jpg)
+> A protest sign which says, "power to the people." Image via Collection of the Smithsonian National Museum of African American History and Culture, Gift of Studio A Modeling, Etiquette and Dance Academy of Baltimore, MD.
 
 How do we up the ante? What would a strategic escalation of tactics from prison abolitionists look like in the courtrooms, in jails, prisons? **How can we disrupt and shut down the criminal legal system, short or long term, as part of a broader campaign to #FreeThemAll and #DefundPolice?**
 

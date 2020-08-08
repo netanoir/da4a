@@ -4,7 +4,8 @@ layout: gift-wrap
 
 <style>
     .left {
-        background: darksalmon url('{{"/assets/photo/ferguson-halftone.png" | relative_url}}');
+        background: darksalmon;
+        /* url('{{"assets/photo/background/blm-the-all-nite-images.png" | relative_url}}') */
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -27,7 +28,7 @@ layout: gift-wrap
     }
 </style>
 
-<div class="left">
+<div class="left" id="section-highlight">
     <div class="section-header">
         <h1 class="section-fill"> {{ page.title }} </h1>
     </div>
@@ -49,3 +50,5 @@ layout: gift-wrap
     </div>
 
 </div>
+
+<script src="{{"/assets/js/layout.js" | relative_url}}"></script>
