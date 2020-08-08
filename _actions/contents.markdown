@@ -5,17 +5,22 @@ types:
   - name: Intro-duction
     url: contents
   - name: Debt Strikes
-    url: 1-debt-strikes
+    url: debt-strikes
+    numUrl: 1-debt-strikes
   - name: Encamp-ments
-    url: 2-encampments
+    url: encampments
+    numUrl: 2-encampments
   - name: Inside / Outside Actions
-    url: 3-inside-outside
+    url: inside-outside
+    numUrl: 3-inside-outside
   - name: Jail &amp; Court Solidarity Actions
-    url: 4-jail-court-solidarity
+    url: jail-court-solidarity
+    numUrl: 4-jail-court-solidarity
   - name: Labor Strikes
-    url: 5-labor-strikes
+    url: labor-strikes
+    numUrl: 5-labor-strikes
   - name: Questions
-    url: questions
+    numUrl: questions
 ---
 
 We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways in which they render Black life disposable. 
