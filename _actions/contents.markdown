@@ -3,8 +3,8 @@ layout: contents
 title: Introduction
 types:
   - name: Intro-duction
-    url: contents
-    numUrl: contents
+    url: "#"
+    numUrl: "#"
   - name: Debt Strikes
     url: debt-strikes
     numUrl: 1-debt-strikes
