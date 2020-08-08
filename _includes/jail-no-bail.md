@@ -1,10 +1,3 @@
----
-layout: section-contents
-title: Jail, No Bail
-pair: Free Speech Fights
-pair-url: free-speech-fights
----
-
 “Jail-no-bail” was a tactic thought up by the Student Nonviolent Coordinating Committee (SNCC) in 1960. The idea was that civil rights activists who were incarcerated pretrial or sentenced to serve time for participating in direct action like sit-ins would refuse to pay their way to freedom.
 
 According to the SNCC’s digital archive, “Supporters believed it would ‘show the movement’s sincerity and win fresh media attention.’” Additionally, “as a practical matter, Jail-No-Bail also eased SNCC’s funding difficulties. The organization couldn’t afford thousands of dollars to bail people out and did not want to reinforce racist police departments with their bail money.”

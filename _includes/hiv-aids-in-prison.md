@@ -1,10 +1,3 @@
----
-layout: section-contents
-title: HIV/AIDS Organizing in Prison
-pair: Bristol Immigration Jail
-pair-url: bristol-immigration-jail
----
-
 In the late 1980s, the HIV/AIDS epidemic was devastating US jails and prisons, and AIDS wards — which segregated HIV-positive people apart from everyone else — gained a reputation as becoming “[the New Death Row](https://www.prisonlegalnews.org/news/1991/oct/15/aids-in-prison-the-new-death-row/%5C).” A 1987 study by the Correctional Association of New York found that people with AIDS in prison were dying at twice the rate of non-prisoners with AIDS. 
 
 ![TK TK](criminalizing-hiv.jpg)

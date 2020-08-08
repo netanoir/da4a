@@ -43,7 +43,7 @@ layout: gift-wrap
     <div class="toc-stack">
         <div class="toc-items">
             {% for item in page.types %}
-            <button class="toc"> <a href="{{"{{item.url}}/{{item.numUrl}}.html" | relative_url}}"> {{item.name}} </a>
+            <button class="toc"> <a href="{{"{{item.url}}/{{item.url}}.html" | relative_url}}"> {{item.name}} </a>
             </button>
             {% endfor %}
         </div>

@@ -1,10 +1,3 @@
----
-layout: section-contents
-title: Free Joan Little
-pair: Hearts on a Wire
-pair-url: hearts-on-a-wire
----
-
 *The following is an excerpt from “*[*Free Us All*](https://thenewinquiry.com/free-us-all/)*” by Mariame Kaba.* 
 
 Defense campaigns for criminalized survivors of violence like [Bresha Meadows](https://freebresha.wordpress.com) and [Marissa Alexander](https://www.freemarissanow.org) are an important part of a larger abolitionist project. Some might suggest that it is a mistake to focus on freeing individuals when all prisons need to be dismantled. The problem with this argument is that it tends to render the people currently in prison as invisible, and thus disposable, while we are organizing towards an abolitionist future. In fact, organizing popular support for prisoner releases is necessary work for abolition. Opportunities to free people from prison through popular support, without throwing other prisoners under the bus, should be seized.

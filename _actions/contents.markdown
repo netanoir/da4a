@@ -54,4 +54,4 @@ We hope to adapt such tactics of disruption to our context of agitating for pris
 
 Could direct action make the daily operation of the criminal legal system so difficult that it could force carceral bureaucrats to stop incarcerating people during and after the pandemic? Which disruptive tactics are suited for the courtroom or criminal legal processes? What would it look like to repurpose the labor power of those who work in courthouses? How do we create pathways for direct action for individuals and families directly impacted by incarceration as well as the larger public? How do we slow or shut down the machinery of incarceration? What awaits us on the other side of this portal?
 
-We hope these questions inspire you to find answers, and ask new ones.
+We hope these [questions](/da4a/actions/questions/questions.html) inspire you to find answers, and ask new ones.

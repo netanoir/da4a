@@ -1,10 +1,3 @@
----
-layout: section-contents
-title: Anti-Nuclear Movement
-pair: Mauna Kea Encampment
-pair-url: mauna-kea
----
-
 *The following includes excerpts from a 1977 Rolling Stones article “*[*The Clamshell Alliance Holds Nukes at Bay*](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/)*” by Michael Aron.* 
 
 The Clamshell Alliance, which formed in 1976 as part of the antinuclear and environmental movements, utilized encampments as a primary tactic in their campaign to stop the construction of a twin-reactor nuclear energy plant near Seabrook, New Hampshire.
