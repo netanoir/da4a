@@ -11,7 +11,7 @@ types:
   - name: Encamp-ments
     url: encampments
     numUrl: 2-encampments
-  - name: Inside / Outside Actions
+  - name: Inside Outside Actions
     url: inside-outside
     numUrl: 3-inside-outside
   - name: Jail &amp; Court Solidarity Actions

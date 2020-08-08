@@ -1,6 +1,6 @@
 ---
 layout: section-intro
-title: Inside / Outside Actions
+title: Inside Outside Actions
 types:
   - name: Bristol Immigra-tion Jail
     url: bristol-immigration-jail
