@@ -1,0 +1,54 @@
+---
+layout: gift-wrap
+---
+
+<style>
+    .left {
+        background: darksalmon;
+        /* url('{{"assets/photo/background/blm-the-all-nite-images.png" | relative_url}}') */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: black;
+    }
+
+    p a {
+        color: black !important;
+        border-bottom: 2px solid black !important;
+    }
+
+    p a:hover {
+        border-bottom: 0px !important;
+    }
+
+    p {
+        background-color: darksalmon;
+        padding: 5%;
+        transform: rotate(-1deg);
+    }
+</style>
+
+<div class="left" id="section-highlight">
+    <div class="section-header">
+        <h1 class="section-fill"> {{ page.title }} </h1>
+    </div>
+    {{ content }}
+</div>
+
+<div class="right">
+    <div class="section-header">
+        <!-- <h1 class="section"> {{ page.title }} </h1> -->
+    </div>
+</div>
+    <div class="toc-stack">
+        <div class="toc-items">
+            {% for item in page.types %}
+            <button class="toc"> <a href="{{"{{item.url}}/{{item.url}}.html" | relative_url}}"> {{item.name}} </a>
+            </button>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+
+<script src="{{"/assets/js/layout.js" | relative_url}}"></script>
