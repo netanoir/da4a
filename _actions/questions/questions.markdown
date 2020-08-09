@@ -1,5 +1,5 @@
 ---
-layout: section-intro
+layout: questions
 title: Questions
 ---
 
