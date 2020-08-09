@@ -40,15 +40,5 @@ layout: gift-wrap
         <!-- <h1 class="section"> {{ page.title }} </h1> -->
     </div>
 </div>
-    <div class="toc-stack">
-        <div class="toc-items">
-            {% for item in page.types %}
-            <button class="toc"> <a href="{{"{{item.url}}/{{item.url}}.html" | relative_url}}"> {{item.name}} </a>
-            </button>
-            {% endfor %}
-        </div>
-    </div>
-
-</div>
 
 <script src="{{"/assets/js/layout.js" | relative_url}}"></script>
