@@ -1,4 +1,4 @@
-![TK TK](drop-the-debt.jpg)
+![TK TK](/da4a/assets/images/actions/debt-strikes/medical-debt-rip/drop-the-debt.jpg)
 > Let Greece Breathe London Feb 15, 2015. People gathered in Trafalgar Square to show support for the new Greek Government run by the anti-austerity party Syriza. Photo via [Sheila/Flickr](https://www.flickr.com/photos/26288540@N03/).
 
 
