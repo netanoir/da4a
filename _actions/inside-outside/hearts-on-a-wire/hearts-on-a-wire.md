@@ -20,7 +20,7 @@ What those surveys held were people’s dreams of liberation. One of those dream
 
 As we honor the life of [Dominique “Rem’Mie” Fells](https://www.elle.com/culture/career-politics/a32857999/riah-milton-dominique-fells-black-transgender-murders/), a beloved family member of Morris Home, may our hearts continue to strengthen that fragile connection on the line.
 
-<iframe width="800" height="600" src="https://www.heartsonawire.org/wp-content/uploads/2020/03/HOAW-newsletter-27-FINAL.pdf"></iframe>
+<iframe width="80%" height="60%" src="https://www.heartsonawire.org/wp-content/uploads/2020/03/HOAW-newsletter-27-FINAL.pdf"></iframe>
 > The Winter 2020 newsletter (Issue #27) of Hearts on a Wire via [Hearts on a Wire](https://www.heartsonawire.org/).
 
 **Lipstick**
