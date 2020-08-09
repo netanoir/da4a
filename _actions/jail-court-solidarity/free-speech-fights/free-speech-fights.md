@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: Free Speech Fights
-pair: Jail, No Bail
-pair-url: jail-no-bail
+pair: 2000 IMF/World Bank
+pair-url: 2000-imf-world-bank
 ---
 
 The following is an excerpt from “[Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars), by Kris Hermes.”  

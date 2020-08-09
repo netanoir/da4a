@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: 2000 IMF World Bank
-pair: Seattle-WTO
-pair-url: seattle-wto
+pair: Free Speech Fights
+pair-url: free-speech-fights
 ---
 
 

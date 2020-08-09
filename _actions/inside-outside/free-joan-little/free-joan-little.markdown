@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: Free Joan Little
-pair: Hearts on a Wire
-pair-url: hearts-on-a-wire
+pair: Bristol Immigration Jail
+pair-url: bristol-immigration-jail
 ---
 
 *The following is an excerpt from “*[*Free Us All*](https://thenewinquiry.com/free-us-all/)*” by Mariame Kaba.* 

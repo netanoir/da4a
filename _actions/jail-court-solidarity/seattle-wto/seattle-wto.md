@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: Seattle World Trade Organization
-pair: 2000 IMF World Bank
-pair-url: 2000-imf-world-bank
+pair: Jail, No Bail
+pair-url: jail-no-bail
 ---
 
 ![TK TK](reflections-on-seattle.png)

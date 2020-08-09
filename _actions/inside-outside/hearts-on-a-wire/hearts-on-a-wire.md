@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: Hearts on a Wire
-pair: Free Joan Little
-pair-url: free-joan-little
+pair: HIV/AIDS Organizing in Prison
+pair-url: hiv-aids-in-prison
 ---
 
 **Glitter**

@@ -1,8 +1,8 @@
 ---
 layout: section-contents
 title: Bristol Immigration Jail
-pair: HIV/AIDS Organizing in Prison
-pair-url: hiv-aids-in-prison
+pair: Free Joan Little
+pair-url: free-joan-little
 ---
 
 
