@@ -5,7 +5,7 @@ types:
   - name: Bus Drivers
     url: bus-drivers
   - name: LA Teacher's Strike
-    url: bus-drivers
+    url: la-teachers
 ---
 
 A strike is a collective work stoppage or slow down organized to compel a target who holds power — such as an employer, landlord or prison warden — to meet strikers’ demands. Strikes can last for only one day, or for many months and even years. The goal of a strike is to inflict both economic and political damage until the strikers’ demands are met. Demands may include better wages or benefits (health care, adequate PPE, etc.), improved worker conditions, and recognition of a labor union.

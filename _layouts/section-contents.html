@@ -6,7 +6,8 @@ layout: gift-wrap
     <div class="section-header">
         <h1 class="section"> {{ page.title }} </h1>
     </div>
-    {{ content }}
+    {% capture my_include %}{% include {{ page.main-content }} %}{% endcapture %}
+    {{ my_include | markdownify }}
 </div>
 
 
@@ -14,6 +15,6 @@ layout: gift-wrap
   <div class="section-header">
       <h1 class="section"> {{ page.pair }} </h1>
   </div>
-  {% capture my_include %}{% include la-teachers.md %}{% endcapture %}
+  {% capture my_include %}{% include {{ page.pair-content }} %}{% endcapture %}
   {{ my_include | markdownify }}
 </div>
