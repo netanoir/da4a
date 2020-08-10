@@ -52,7 +52,7 @@ body {
 
 a:link, a:active, a:visited {
     color: darksalmon;
-    border-bottom: 2px solid darksalmon;
+    border-bottom: 0.25vh solid darksalmon;
     text-decoration: none;
 }
 
@@ -201,7 +201,7 @@ h2.credit:last-of-type::before {
 
 .nav {
     width: 100%;
-    background: black;
+    /* background: black; */
     border-top: 2px solid darksalmon;
     padding: 1rem;
     height: inherit;
@@ -292,8 +292,8 @@ h1.section {
     text-align: center;
     font-weight: normal;
     font-style: normal;
-    font-size: 3rem;
-    border: 2px solid darksalmon;
+    font-size: 1.5vw;
+    border: 0.25vh solid darksalmon;
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;
@@ -376,8 +376,8 @@ img.arrow {
 }
 
 blockquote p {
-    font-size: 2rem;
-    line-height: 2.5rem;
+    font-size: 1vw;
+    line-height: 125%;
     font-style: italic;
     text-align: center;
     padding: 0;

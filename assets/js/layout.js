@@ -16,4 +16,3 @@ const backgrounds = [
     let updateBackground = document.getElementById("section-highlight").style.backgroundImage = openTag + fileDirectory + selectBackgroundFile + closeTag;
   };
   
-  
