@@ -60,7 +60,7 @@
         {% if prevurl %}
         <a href="{{ prevurl | relative_url}}">
           <img src="{{"assets/images/previous.png" | relative_url}}"
-            alt="a scribble of a circular back arrow directing you to the previous page" class="arrow" />
+            alt="a scribble of a circular back arrow directing you to the previous page" class="arrow" style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)"/>
         </a>
         {% endif %}
       </li>
@@ -69,7 +69,7 @@
         {% if nexturl %}
         <a href="{{ nexturl | relative_url }}">
           <img src="{{"assets/images/next.png" | relative_url}}"
-            alt="another scribble of a circular back arrow directing you to the next page" class="arrow" />
+            alt="another scribble of a circular back arrow directing you to the next page" class="arrow" style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)"/>
         </a>
         {% endif %}
       </li>

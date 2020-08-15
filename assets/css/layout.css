@@ -43,12 +43,6 @@ body {
     border: 0px !important;
 }
 
-.nav a:hover {
-    font-family: Flux-Bold, Helvetica, Serif;
-    font-weight: bold;
-    letter-spacing: inherit;
-}
-
 a:link, a:active, a:visited {
     color: darksalmon;
     border-bottom: 0.25vh solid darksalmon;
@@ -113,12 +107,13 @@ h1.title {
     text-transform: uppercase;
     font-style: normal;
     font-weight: bold;
-    margin-left: 5vw;
+    margin-left: 5.5vw;
     margin-right: 5vw;
     text-shadow: 5px 5px black;
 }
 
 .direct {
+    margin-top: 1%;
     transform: rotate(10deg);
     text-align: center;
 }
@@ -328,8 +323,6 @@ img {
 
 img:hover {
     transform: rotate(-5deg);
-    /* https://codepen.io/sosuke/pen/Pjoqqp */
-    /* filter: sepia(20%) saturate(1348%) hue-rotate(320deg); */
     -webkit-filter: none;
     -moz-filter: none;
     -ms-filter: none;
@@ -342,6 +335,10 @@ img.arrow {
     -moz-filter: none;
     -ms-filter: none;
     filter: none;
+}
+
+.arrow:hover {
+    transform: scale(1.08, 1.08) !important;
 }
 
 blockquote p {
