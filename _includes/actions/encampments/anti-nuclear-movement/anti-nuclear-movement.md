@@ -1,6 +1,8 @@
-*The following includes excerpts from a 1977 Rolling Stones article “*[*The Clamshell Alliance Holds Nukes at Bay*](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/)*” by Michael Aron.*
 
 The Clamshell Alliance, which formed in 1976 as part of the antinuclear and environmental movements, utilized encampments as a primary tactic in their campaign to stop the construction of a twin-reactor nuclear energy plant near Seabrook, New Hampshire.
+
+*The following is an excerpt from a 1977 Rolling Stones article “*[*The Clamshell Alliance Holds Nukes at Bay*](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/)*” by Michael Aron.*
+
 
 ![TK TK](/da4a/assets/images/actions/encampments/anti-nuclear-movement/nuclear-america.jpg)
 > Image via [Interference Archive](https://interferencearchive.org/).
@@ -10,7 +12,7 @@ The Clamshell Alliance, which formed in 1976 as part of the antinuclear and envi
 Gyorgy said that the coalition heard about an occupation of a nuclear site in West Germany, and activism in Denmark that forced the Danish government to cancel six nuclear plants there.
 
 ![TK TK](/da4a/assets/images/actions/encampments/anti-nuclear-movement/skulls.jpg)
-> Image via [Interference Archive](https://interferencearchive.org/).
+> Image via [Peg Averill, War Resisters League](https://postermuseum.com/products/no-nuclear-terror-power-or-weapons).
 
 Inspired by the Europeans’ successes, the New England people began talking about direct action. In the bitter cold of January 1976 a 22-year-old apple picker named Ron Rieck camped for 36 hours in a weather tower. In April 1976 nearly 300 people walked onto the Seabrook site and spent a peaceful day there.
 

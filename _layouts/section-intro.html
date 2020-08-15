@@ -5,7 +5,6 @@ layout: gift-wrap
 <style>
     .left {
         background: darksalmon;
-        /* url('{{"assets/photo/background/blm-the-all-nite-images.png" | relative_url}}') */
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -43,12 +42,11 @@ layout: gift-wrap
     <div class="toc-stack">
         <div class="toc-items">
             {% for item in page.types %}
-            <button class="toc"> <a href="{{"{{item.url}}/{{item.url}}.html" | relative_url}}"> {{item.name}} </a>
-            </button>
+            <button class="toc" onclick="document.location='{{"{{item.url}}/{{item.url}}.html'"> {{item.name}} </button>
             {% endfor %}
         </div>
     </div>
 
 </div>
 
-<script src="{{"/assets/js/layout.js" | relative_url}}"></script>
+<!-- <script src="{{"/assets/js/layout.js" | relative_url}}"></script> -->

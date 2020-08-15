@@ -1,9 +1,11 @@
-In July 2019, following years of indigenous organizing and litigation, Hawaii’s governor’s announcement that construction of a controversial $1.4-billion telescope on a mountain sacred to Native Hawaiians was imminent. More than 30 indigenous elders, many in their 70s and 80s, set up camp at the base of the mountain and used their bodies to block access to the road. Further up the road, seven Native Hawaiians chained themselves to a cattle guard, forming a second line of defense.
+In July 2019, following years of indigenous organizing and litigation, Hawaii’s governor’s announcement that construction of a controversial $1.4-billion telescope on a mountain sacred to Native Hawaiians was imminent. 
+
+More than 30 indigenous elders, many in their 70s and 80s, set up camp at the base of the mountain and physically blocked the road. Nearby, seven other Native Hawaiians chained themselves to a cattle guard, forming a second line of defense.
 
 ![No TMT sign by H. Doug Matsuoka](/da4a/assets/images/actions/encampments/mauna-kea/no-tmt-sign.jpg)
 > Protect Mauna Kea at Hawaii Kai and Hanauma Bay, May 31, 2015. Image via [Doug Matsuoka/Flickr](https://www.flickr.com/photos/hdoug/).
 
-Police picked up and carried away the elders; others were taken away in wheelchairs while younger protesters wept and pleaded with police.
+Police picked up and carried away many of the elders; some were taken away in wheelchairs while younger protesters wept and pleaded with the arresting officers.
 
 “Law enforcement, most of them Hawaiians themselves, moved slowly and respectfully, looking pained and conflicted as they arrested the kūpuna [elders],” reported [*Vox*](https://www.vox.com/identities/2019/7/24/20706930/mauna-kea-hawaii).
 
@@ -16,8 +18,7 @@ In the following days, some 2,000 people joined the first wave of protesters. Th
 ![Protect Mauna Kea graphic by Dignidad Rebelde.](/da4a/assets/images/actions/encampments/mauna-kea/dignidad-rebelde.jpg)
 > Protect Mauna Kea graphic. Image via [Dignidad Rebelde/Flickr](https://www.flickr.com/photos/dignidadrebelde/).
 
-
-Opposition to the new Thirty Meter Telescope (TMT) and other telescopes on Mauna Kea had been mounting for years and decades. The newest proposal for a telescope set off centuries-old tensions around land rights, colonization and indigenous sovereignty. Before the occupation, lawsuits had been filed, and environmental impact statements submitted.
+Opposition to the new Thirty Meter Telescope (TMT) and other telescopes on Mauna Kea had been mounting for decades. It also halted access to thirteen already existing telescopes.
 
 The occupation of the road prevented construction crews from building the new telescope. They also halted access to thirteen already existing telescopes. The shutdown was the longest interruption to scientific activity on Mauna Kea in the five-decade history of astronomy on the mountain, reported [*Nature*](https://www.nature.com/articles/d41586-019-02354-5)*.* As such, the protests brought issues of land rights and sovereignty into the consideration of a new audience: international astronomers.
 

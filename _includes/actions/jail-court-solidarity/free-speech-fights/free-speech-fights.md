@@ -1,4 +1,4 @@
-The following is an excerpt from “[Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars), by Kris Hermes.”
+_The following is an excerpt from “[Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars), by Kris Hermes.”_
 
 ![San Diego soapbox during Free Speech Fight 1912.](/da4a/assets/images/actions/jail-court-solidarity/free-speech-fights/san-diego-soapbox.jpeg)
 > San Diego soapbox during Free Speech Fight 1912. Image via [San Diego History Center](http://www.aftguild.org/free_speech/).

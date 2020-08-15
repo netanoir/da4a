@@ -12,7 +12,7 @@ A [2014 exhibition in Brooklyn, NY](https://www.poz.com/blog/exhibition-of-priso
 PEPA was co-founded by political prisoner David Gilbert after his close friend and fellow political prisoner, Kuwasi Balagoon, died from AIDS-related complications in 1987. PEPA was modeled after peer education paradigms that were being devised in queer communities outside prison at the time. This approach emphasized mental health counseling for and by imprisoned people  living with HIV/AIDS, and education and harm reduction approaches to drug use and sex. Key to the project’s efficacy was the fact that it was run by people in prison living with HIV/AIDS, Gilbert maintained.
 
 ![TK TK](/da4a/assets/images/actions/inside-outside/hiv-aids-in-prison/november-poz.jpeg)
-> TK TK
+> Image via [Jane Fowler](https://www.poz.com/article/year-poz-1998#search-query=aids%20prison%20education). POZ, Dec. 1998
 
 “We lost many people, but we found a way to slow the spread of AIDS through inmate-to-inmate communication and education,” Gilbert wrote in [a March 2020 letter](https://www.nytimes.com/2020/03/29/opinion/letters/coronavirus-prison.html) published by the New York Times in which he compared HIV/AIDS to the COVID-19 pandemic. “The policies we are living under will be most effective when we have a say in shaping them. Allowing prisoners an active role in creating a safer environment will protect lives both inside and out.”
 

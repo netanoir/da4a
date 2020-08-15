@@ -1,4 +1,4 @@
-**Glitter**
+## Glitter
 *By Pascal Emmer, founding member of Hearts on a Wire.*
 
 *Hearts on a Wire Collective is a Philadelphia-based collective of trans and gender variant (“T/GV”) people building a movement for gender self-determination, racial and economic justice, and an end to the policing and imprisoning of our communities.*
@@ -16,7 +16,7 @@ As we honor the life of [Dominique “Rem’Mie” Fells](https://www.elle.com/c
 <iframe width="80%" height="60%" src="https://www.heartsonawire.org/wp-content/uploads/2020/03/HOAW-newsletter-27-FINAL.pdf"></iframe>
 > The Winter 2020 newsletter (Issue #27) of Hearts on a Wire via [Hearts on a Wire](https://www.heartsonawire.org/).
 
-**Lipstick**
+## Lipstick
 *The following is an excerpt from a phone call with Adrian Lowe, current member of Hearts on a Wire.*
 There is a commissary list that has items that are available for purchase. Previously, if you were in a “male” prison, the items on the list are different than if you were in a “female” prison.
 

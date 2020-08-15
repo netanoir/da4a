@@ -25,7 +25,7 @@ types:
     numUrl: questions
 ---
 
-We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways in which they render Black life disposable. 
+We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways they render Black life disposable.
 
 In April, when the world began to reckon with Covid-19, writer Arundhati Roy challenged us to use [this pandemic as a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca).
 
@@ -41,7 +41,7 @@ We also saw, simultaneously, the creep of technologies of surveillance and socia
 
 In that context, we wondered how abolitionist organizing and direct action could influence and even make permanent shrinkages to existing carceral systems, and prevent new ones from forming.
 
-Now, our context changes still. Weeks of living with the dual realities of continued viral spread as well as a massive, nationwide uprising against the police and anti-blackness have led to demands to defund the police becoming mainstream, and national conversations about the practicality of prison abolition. There is a palpable excitement for direct action, in solidarity with protesters, and with those who face the brunt of criminalization. 
+Now, our context changes still. Months of living with the dual realities of continued viral spread as well as a massive, nationwide uprising against the police and anti-blackness have led to demands to defund the police becoming mainstream, and national conversations about the practicality of prison abolition. As we face mass unemployment, evictions, and ongoing waves of viral infection, there are unprecedented opportunities for direct action, in solidarity with protesters, and with those who face the brunt of criminalization.
 
 ![This cardboard sign is a rectangular piece of cardboard with handwritten text in black marker. The text reads "Power to the People". There is a narrow flat stick of wood as a handle mounted to the back with adhesive. There are also four strips of black tape across the handle and the back of the sign. There are two names written on the back.](/da4a/assets/images/introduction/power-to-the-people.jpg)
 > A protest sign which says, "power to the people." Image via Collection of the Smithsonian National Museum of African American History.

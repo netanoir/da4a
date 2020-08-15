@@ -15,4 +15,12 @@ const backgrounds = [
   window.onload = (event) => {
     let updateBackground = document.getElementById("section-highlight").style.backgroundImage = openTag + fileDirectory + selectBackgroundFile + closeTag;
   };
+
+let links = document.links;
+
+for (let i = 0, linksLength = links.length; i < linksLength; i += 1) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
   

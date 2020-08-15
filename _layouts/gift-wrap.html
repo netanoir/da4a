@@ -2,71 +2,86 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title> Direct Action for Prison Abolition </title>
+  <title> Direct Action for Prison Abolition </title>
 
-    <link rel="stylesheet" type="text/css" href="{{"/assets/css/layout.css" | relative_url}}">
-    <link href="https://fonts.googleapis.com/css2?family=Miniver&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{"/assets/css/layout.css" | relative_url}}">
+  <link href="https://fonts.googleapis.com/css2?family=Miniver&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="gift-wrap">
-        {{ content }}
+  <div class="gift-wrap">
+    {{ content }}
+  </div>
+
+
+  <footer class="bottom">
+    <ul class="nav">
+      <li class="standout"> <a href="{{"index.html" | relative_url}}"> Direct Action for Prison Abolition </a> </li>
+
+      {% capture actions %}{{page.collection}}{% endcapture %}
+
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
+
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
+
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% endfor %}{% endfor %}
+
+      <li>
+        {% if prevurl %}
+        <a href="{{ prevurl | relative_url}}">
+          <img src="{{"assets/images/previous.png" | relative_url}}"
+            alt="a scribble of a circular back arrow directing you to the previous page" class="arrow" />
+        </a>
+        {% endif %}
+      </li>
+      <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
+      <li>
+        {% if nexturl %}
+        <a href="{{ nexturl | relative_url }}">
+          <img src="{{"assets/images/next.png" | relative_url}}"
+            alt="another scribble of a circular back arrow directing you to the next page" class="arrow" />
+        </a>
+        {% endif %}
+      </li>
+    </ul>
     </div>
 
+    <script>
+      function goBack() {
+        window.history.back();
+      }
+    </script>
 
-    <footer class="bottom">
-        <ul class="nav">
-            <li class="standout"> <a href="{{"colophon.html" | relative_url}}"> Direct Action for Prison Abolition </a> </li>
-
-            {% capture actions %}{{page.collection}}{% endcapture %}
-
-                {% if page.collection %}
-                  {% assign  document = site[actions] %}
-                {% endif %}
-              
-              {% for links in document  %}
-                {% if links.title == page.title %}
-                  {% unless forloop.first %}
-                    {% assign prevurl = prev.url %}
-                  {% endunless %}
-                  {% unless actions.last.url %}
-                    {% assign next = document[forloop.index] %}
-                    {% assign nexturl = next.url %}
-                  {% endunless %}
-                {% endif %}
-                {% assign prev = links %}
-                {% if page.collection %}
-                  {% assign  document = site[actions] %}
-                {% endif %}
-              
-              {% for links in document  %}
-                {% if links.title == page.title %}
-                  {% unless forloop.first %}
-                    {% assign prevurl = prev.url %}
-                  {% endunless %}
-                  {% unless actions.last.url %}
-                    {% assign next = document[forloop.index] %}
-                    {% assign nexturl = next.url %}
-                  {% endunless %}
-                {% endif %}
-                {% assign prev = links %}
-              {% endfor %}{% endfor %}
-
-            <li> {% if prevurl %}<a href="{{ prevurl | relative_url}}"> Back </a>{% endif %} </li>
-            <li> <a href="{{"index.html" | relative_url}}" class="nav">Cover</a> </li>
-            <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
-            <li> {% if nexturl %} <a href="{{ nexturl | relative_url }}"> Next </a> {% endif %} </li>
-        </ul>
-        </div>
-
-        <script>
-            function goBack() {
-                window.history.back();
-            }
-        </script>
+    <script src="{{"/assets/js/layout.js" | relative_url}}"></script>
 
 </body>
