@@ -1,7 +1,7 @@
 ## Glitter
-*By Pascal Emmer, founding member of Hearts on a Wire.*
+*By Pascal Emmer, founding member of Hearts on a Wire*
 
-*Hearts on a Wire Collective is a Philadelphia-based collective of trans and gender variant (“T/GV”) people building a movement for gender self-determination, racial and economic justice, and an end to the policing and imprisoning of our communities.*
+Hearts on a Wire Collective is a Philadelphia-based collective of trans and gender variant (“T/GV”) people building a movement for gender self-determination, racial and economic justice, and an end to the policing and imprisoning of our communities.
 
 Since 2007, the collective has worked to break the isolation that prisons violently impose. When people would ask us about our group’s name, we’d say “A wire, as it appears on the top of prison fences, enforces a border. It keeps friends, lovers, family members, and communities apart. But, a wire can also be an important channel for communication. Our hearts abide in the ambiguity of the wire – as an instrument of separation and connection. Therefore, the intention of our work is to strengthen that fragile connection on the line.”
 
@@ -18,6 +18,7 @@ As we honor the life of [Dominique “Rem’Mie” Fells](https://www.elle.com/c
 
 ## Lipstick
 *The following is an excerpt from a phone call with Adrian Lowe, current member of Hearts on a Wire.*
+
 There is a commissary list that has items that are available for purchase. Previously, if you were in a “male” prison, the items on the list are different than if you were in a “female” prison.
 
 Women in “male” prisons wanted to order cosmetics, appropriate undergarments, ladies deodorant, lipstick, mascara, bras and panties. But when they tried to purchase these items, they were denied by prison administrators.
