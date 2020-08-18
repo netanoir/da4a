@@ -2,6 +2,14 @@
 layout: gift-wrap
 ---
 
+<button class="current-section">
+    {% for page in site.actions %}
+        {% if page.section == {'Debt Strikes'} %}
+        <a href="../{{page.section-url}}.html"> {{ page.section }} </a>
+        {% endif %}
+    {% endfor %}
+</button>
+
 <div class="left">
     <div class="section-header">
         <h1 class="section"> {{ page.title }} </h1>

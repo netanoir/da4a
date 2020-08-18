@@ -22,7 +22,10 @@ types:
     numUrl: 5-labor-strikes
   - name: Questions
     url: questions
-    numUrl: questions
+    numUrl: 6-questions
+  - name: Acknow-ledge-ments
+    url: acknowledgements
+    numUrl: 7-acknowledgements
 ---
 
 We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways they render Black life disposable.
