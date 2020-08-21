@@ -16,9 +16,9 @@ Since at least the early 1900s, activists have used tactics of collective action
 
 [Midnight Special Law Collective defined legal solidarity](http://www.midnightspecial.net/files/legalsolidarityhandbook.pdf) as a “strategy that uses group decision-making and action to protect people when they are being held in the legal system.” Legal solidarity tactics can take place in the jail (“jail solidarity”) when activist arrestees are in the custody of police or jail guards, or in the courts (“court solidarity”) where solidarity tactics are directed at prosecutors or judges. 
 
-*The following includes excerpts from “*[*Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements*](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars)*, by Kris Hermes.”*  
+*The following is an excerpt from “*[*Collective Action Behind Bars: A history of jail solidarity and its importance for today's social change movements*](https://uppingtheanti.org/journal/article/18-collective-action-behind-bars)*, by Kris Hermes.”*  
 
-By using certain tactics collectively, activists have mitigated harm in jail and achieved objectives that would have been impossible through individual action. According to the Just Cause Law Collective (JCLC), the term “solidarity tactics” encompasses “many different forms of non-cooperation, all of which are designed to produce leverage for collective bargaining.” 
+By using certain tactics collectively, activists have mitigated harm in jail and achieved objectives that would have been impossible through individual action. According to the Just Cause Law Collective, the term “solidarity tactics” encompasses “many different forms of non-cooperation, all of which are designed to produce leverage for collective bargaining.” 
 
 Jail solidarity, as it has become known, has a rich history in the US through its periodic use over the past hundred years by many different social movements. When activist arrestees have utilized their collective strength, often through militant and confrontational tactics, they have won demands and built power against a legal system designed to coerce and oppress. 
 

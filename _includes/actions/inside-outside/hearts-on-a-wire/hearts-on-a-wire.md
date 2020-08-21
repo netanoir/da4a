@@ -9,7 +9,7 @@ In that spirit, the first event we held was a party to make valentines for our T
 
 We realized then that we had to get more savvy about moving below the radar of prison mailroom censors. Not just for sending letters. By the time we started rolling out our participatory action research survey asking T/GV folks incarcerated across the entire state of PA about their experiences of detention and their visions for decarceration and abolition, we had to come up with a stealth way to smuggle the survey in and out of prison facilities. That’s when Miss Terry, one of our inside collective members, had the brilliant idea of camouflaging the survey as a zine. We designed a cover and everything so that it looked like a zine that our friends in lock-up would often receive and share through the mail. It worked! The vast majority of surveys we sent out made it back to our mailbox, filled with the courageous and visionary writing of our inside membership.
 
-What those surveys held were people’s dreams of liberation. One of those dreams was for transitional housing and reentry support so that imprisoned trans women of color could meet parole requirements and return home. People literally dreamed this into reality, and that dream was Morris Home (named in honor of Nizah Morris). All of this started with a little glitter.
+What those surveys held were people’s dreams of liberation. One of those dreams was for transitional housing and reentry support so that imprisoned trans women of color could meet parole requirements and return home. People literally dreamed this into reality, and that dream was [Morris Home](https://www.rhd.org/morrishome/https://www.rhd.org/morrishome/) (named in honor of [Nizah Morris](https://epgn.com/2020/06/10/we-still-need-justice-for-nizah-morris/)).
 
 As we honor the life of [Dominique “Rem’Mie” Fells](https://www.elle.com/culture/career-politics/a32857999/riah-milton-dominique-fells-black-transgender-murders/), a beloved family member of Morris Home, may our hearts continue to strengthen that fragile connection on the line.
 
@@ -21,7 +21,7 @@ As we honor the life of [Dominique “Rem’Mie” Fells](https://www.elle.com/c
 
 There is a commissary list that has items that are available for purchase. Previously, if you were in a “male” prison, the items on the list are different than if you were in a “female” prison.
 
-Women in “male” prisons wanted to order cosmetics, appropriate undergarments, ladies deodorant, lipstick, mascara, bras and panties. But when they tried to purchase these items, they were denied by prison administrators.
+Women in “male” prisons wanted to order cosmetics, ladies deodorant, lipstick, mascara,  and appropriate undergarments like bras and panties. But when they tried to purchase these items, they were denied by prison administrators.
 
 We had identified that as an issue because through communicating with folks on the inside, we knew this was universally wanted and impacted lives; also, the rule was so ludicrous.
 

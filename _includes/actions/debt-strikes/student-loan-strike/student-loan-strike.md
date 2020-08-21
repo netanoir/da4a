@@ -4,7 +4,7 @@ One organization that has leveraged collective power by offering debtors a share
 > Washington, D.C. October 10, 2016. The Stop the Machine protest, also joined by already on-going Occupy DC protests (then in their sixth day), an offshoot of the Occupy Wall Street protests in New York City. Image via [thisisbossi/Flickr](https://www.flickr.com/photos/thisisbossi/).
 
 
-“Tens of millions of us are carrying more than $1.5 trillion in student debt,” reads the Debt Collective’s [website](https://strike.debtcollective.org/), on which one caan track its campaign and sign a pledge. “Our debt is someone's profit which also makes it a form of leverage over the government agencies and the private companies that are extracting from us. One million people default every year.”
+“Tens of millions of us are carrying more than $1.5 trillion in student debt,” reads the Debt Collective’s [website](https://strike.debtcollective.org/), on which one can track its campaign and sign a pledge. “Our debt is someone's profit which also makes it a form of leverage over the government agencies and the private companies that are extracting from us. One million people default every year.”
 
 While a large-scale student debt strike has yet to take place, [*The New Republic*](https://newrepublic.com/article/156468/radical-possibilities-not-paying-student-loans) noted that the Debt Collective’s model for mass refusal has “already worked before.”
 

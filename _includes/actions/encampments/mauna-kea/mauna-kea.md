@@ -11,14 +11,14 @@ Police picked up and carried away many of the elders; some were taken away in wh
 
 After being cited and released, the elders returned to their seats in the road.
 
-“This is all we have left, so we aren’t going to move,” veteran activist Walter Ritte, one of the elders arrested, told *Vox*. “They’re going to have to keep arresting us — and we’ll keep coming right back. The mountain represents us, all Hawaiians, so we’re not going to let them take our mountain. … We aren’t going to leave her.”
+“This is all we have left, so we aren’t going to move,” veteran activist Walter Ritte, one of the elders arrested, told *Vox*. “They’re going to have to keep arresting us — and we’ll keep coming right back. The mountain represents us, all Hawaiians, so we’re not going to let them take our mountain. We aren’t going to leave her.”
 
 In the following days, some 2,000 people joined the first wave of protesters. The encampment, which held prayer ceremonies three times a day and included a medic tent and kitchen, gained international attention.
 
 ![Protect Mauna Kea graphic by Dignidad Rebelde.](/da4a/assets/images/actions/encampments/mauna-kea/dignidad-rebelde.jpg)
 > Protect Mauna Kea graphic. Image via [Dignidad Rebelde/Flickr](https://www.flickr.com/photos/dignidadrebelde/).
 
-Opposition to the new Thirty Meter Telescope (TMT) and other telescopes on Mauna Kea had been mounting for decades. It also halted access to thirteen already existing telescopes.
+Opposition to the new Thirty Meter Telescope (TMT) and other telescopes on Mauna Kea had been mounting for decades.
 
 The occupation of the road prevented construction crews from building the new telescope. They also halted access to thirteen already existing telescopes. The shutdown was the longest interruption to scientific activity on Mauna Kea in the five-decade history of astronomy on the mountain, reported [*Nature*](https://www.nature.com/articles/d41586-019-02354-5)*.* As such, the protests brought issues of land rights and sovereignty into the consideration of a new audience: international astronomers.
 
@@ -28,7 +28,7 @@ The letter’s authors asked fellow astronomers to consider “the methods by wh
 ![TKTK](/da4a/assets/images/actions/encampments/mauna-kea/blockade-2014.jpg)
 > On October 7, 2014 Hawaiian cultural practitioners, environmentalists, and activists gather to stand in solidarity against the groundbreaking ceremony for the Thirty Meter Telescope (TMT). #buildingTMT #aoleTMT. Image via [Occupy Hilo/Flickr](https://www.flickr.com/photos/occupyhilo/15512231342/).
 
-“Armed or not, the military and the police have become involved in the project’s deliberations with the protectors of Mauna Kea,” they wrote. The letter urged fellow astronomers “to consider whether the future of our field is worth the damage to our relationship” to Native Hawaiians.
+“Armed or not, the military and the police have become involved in the project’s deliberations with the protectors of Mauna Kea,” they wrote. The letter urged astronomers “to consider whether the future of our field is worth the damage to our relationship” to Native Hawaiians.
 
 Today, while the future of the TMT is still hamstrung in Mauna Kea, supporters of Native Hawaiian struggles are pressuring the University of California, one of the observatory’s six funders, to pull out from the project. A petition urging UC to divest from the TMT project has been signed by 1,048 undergraduate students, 70 graduate students, 119 alumni and 266 UC staff and faculty, while an online petition has reached nearly 400,000 signatures.
 
