@@ -22,7 +22,9 @@ types:
     numUrl: 6-questions
 ---
 
-We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways they render Black life disposable.
+_Direct Action for Prison Abolition_ is created and published by [Community Justice Exchange](https://www.communityjusticeexchange.org/) and edited by Puck Lo, Rachel Foran, and Zohra Ahmed. Endless thanks to Amna Akbar, Brenda Carter, and Elizabeth Nguyen for reviewing and providing critical feedback; Elena Levi at [Interference Archive](https://interferencearchive.org/) for providing archival images and materials; and [Neta Bomani](https://netabomani.com) for designing and developing the print and web versions of the zine. Special thanks to [Tim Burcham](https://www.clearblur.org/) for technical support.
+
+<!-- We’re in a global pandemic — and we’re in an unprecedented national uprising against the police and white supremacy, and the ways they render Black life disposable.
 
 In April, when the world began to reckon with COVID-19, writer Arundhati Roy challenged us to use [this pandemic as a portal](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca).
 
@@ -51,4 +53,4 @@ We hope to adapt such tactics of disruption to our context of agitating for pris
 
 Could direct action make the daily operation of the criminal legal system so difficult that it could force carceral bureaucrats to stop incarcerating people during and after the pandemic? Which disruptive tactics are suited for the courtroom or criminal legal processes? What would it look like to repurpose the labor power of those who work in courthouses? How do we create pathways for direct action for individuals and families directly impacted by incarceration as well as the larger public? How do we slow or shut down the machinery of incarceration? What awaits us on the other side of this portal?
 
-We hope these questions inspire you to find answers and ask new ones.
+We hope these questions inspire you to find answers and ask new ones. -->
