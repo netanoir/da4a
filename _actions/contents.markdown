@@ -1,6 +1,6 @@
 ---
 layout: contents
-title: Introduction
+title: Acknowledgements
 types:
   - name: Debt Strikes
     url: debt-strikes
