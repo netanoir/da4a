@@ -290,22 +290,22 @@ button.toc:hover {
     background: white;
 }
 
-.acknowledgements div {
+/* .acknowledgements div {
     margin-top: 1vh;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: visibility 0s, opacity 0.5s linear;
     transition: visibility 0s, opacity 0.5s linear;
-}
+} */
 
-.acknowledgements p {
+/* .acknowledgements p {
     font-size: 1.5vw;
-}
+} */
 
-.acknowledgements:hover div {
+/* .acknowledgements:hover div {
     visibility: visible;
     opacity: 1;
-}
+} */
 
 .section-header {
     display: flex;
