@@ -12,92 +12,82 @@
   <link href="https://fonts.googleapis.com/css2?family=Miniver&display=swap" rel="stylesheet">
 </head>
 
-<body <div class="gift-wrap">
-  {{ content }}
+<body>
+
+  <div class="gift-wrap">
+    {{ content }}
   </div>
 
-  <div class="footer-button">
-    <label for="show-footer"></label>
-  </div>
 
-  <footer class="pagination">
-    <div class="pagination-contents">
-      <input type="checkbox" id="show-footer" name="show-the-footer" class="r-foot-check">
-      <nav class="footer-body">
-        <div>
-          <div class="pagination-nav">
-            <ul class="nav">
-              <li class="standout"> <a href="{{"index.html" | relative_url}}"> Direct Action for Prison Abolition </a>
-              </li>
+  <footer class="bottom">
+    <ul class="nav">
+      <li class="standout"> <a href="{{"index.html" | relative_url}}"> Direct Action for Prison Abolition </a> </li>
+      {% capture actions %}{{page.collection}}{% endcapture %}
 
-              {% capture actions %}{{page.collection}}{% endcapture %}
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
 
-              {% if page.collection %}
-              {% assign  document = site[actions] %}
-              {% endif %}
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
 
-              {% for links in document  %}
-              {% if links.title == page.title %}
-              {% unless forloop.first %}
-              {% assign prevurl = prev.url %}
-              {% endunless %}
-              {% unless actions.last.url %}
-              {% assign next = document[forloop.index] %}
-              {% assign nexturl = next.url %}
-              {% endunless %}
-              {% endif %}
-              {% assign prev = links %}
-              {% if page.collection %}
-              {% assign  document = site[actions] %}
-              {% endif %}
-
-              {% for links in document  %}
-              {% if links.title == page.title %}
-              {% unless forloop.first %}
-              {% assign prevurl = prev.url %}
-              {% endunless %}
-              {% unless actions.last.url %}
-              {% assign next = document[forloop.index] %}
-              {% assign nexturl = next.url %}
-              {% endunless %}
-              {% endif %}
-              {% assign prev = links %}
-              {% endfor %}{% endfor %}
-              <li>
-                {% if prevurl %}
-                <a href="{{ prevurl | relative_url}}">
-                  <img src="{{"assets/images/previous.png" | relative_url}}"
-                    alt="a scribble of a circular back arrow directing you to the previous page" class="arrow"
-                    style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
-                </a>
-                {% endif %}
-              </li>
-              <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
-              <!-- <li>
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% endfor %}{% endfor %}
+      <li>
+        {% if prevurl %}
+        <a href="{{ prevurl | relative_url}}">
+          <img src="{{"assets/images/previous.png" | relative_url}}"
+            alt="a scribble of a circular back arrow directing you to the previous page" class="arrow"
+            style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
+        </a>
+        {% endif %}
+      </li>
+      <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
+      <!-- <li>
                 {% for page in site.actions %}
                 <a href="../{{page.section-url}}.html"> {{ page.section }} </a>
                 {% endfor %}
               </li> -->
-              <li>
-                {% if nexturl %}
-                <a href="{{ nexturl | relative_url }}">
-                  <img src="{{"assets/images/next.png" | relative_url}}"
-                    alt="another scribble of a circular back arrow directing you to the next page" class="arrow"
-                    style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
-                </a>
-                {% endif %}
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-  </footer>
+      <li>
+        {% if nexturl %}
+        <a href="{{ nexturl | relative_url }}">
+          <img src="{{"assets/images/next.png" | relative_url}}"
+            alt="another scribble of a circular back arrow directing you to the next page" class="arrow"
+            style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
+        </a>
+        {% endif %}
 
-  <script>
-    function goBack() {
-      window.history.back();
-    }
-  </script>
+      </li>
+    </ul>
+    </div>
+
+    <li> {% if prevurl %}<a href="{{ prevurl | relative_url}}"> Back </a>{% endif %} </li>
+    <li> {% if nexturl %} <a href="{{ nexturl | relative_url }}"> Next </a> {% endif %} </li>
+    </ul>
+    </div>
+  </footer>
 
   <script src="{{"/assets/js/layout.js" | relative_url}}"></script>
 
