@@ -1,4 +1,3 @@
-
 The Clamshell Alliance, which formed in 1976 as part of the antinuclear and environmental movements, utilized encampments as a primary tactic in their campaign to stop the construction of a twin-reactor nuclear energy plant near Seabrook, New Hampshire.
 
 *The following is an excerpt from a 1977 _Rolling Stones_ article, “[The Clamshell Alliance Holds Nukes at Bay](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/),” by Michael Aron.*
