@@ -26,7 +26,7 @@ html {
 
 body {
     background-color: black;
-    color: white;
+    color: lightsalmon;
     font-family: Courier, monospace;
     font-weight: 400;
     font-style: normal;
@@ -34,7 +34,7 @@ body {
 }
 
 ::selection {
-    background: white;
+    background: lightsalmon;
     color: black
 }
 
@@ -44,13 +44,13 @@ body {
 }
 
 a:link, a:active, a:visited {
-    color: white;
-    border-bottom: 0.25vh solid white;
+    color: lightsalmon;
+    border-bottom: 0.25vh solid lightsalmon;
     text-decoration: none;
 }
 
 a:hover {
-    color: white;
+    color: lightsalmon;
     text-decoration: none;
     border-bottom: 0px;
 }
@@ -81,7 +81,7 @@ a:hover {
 }
 
 .left {
-    border-right: 2px solid white;
+    border-right: 2px solid lightsalmon;
 }
 
 .left::-webkit-scrollbar, .right::-webkit-scrollbar {
@@ -173,7 +173,7 @@ h2 {
     bottom: 1%;
     right: 0%;
     background: transparent;
-    color: white;
+    color: lightsalmon;
     cursor: pointer;
     display: inline-block;
     text-align: right;
@@ -194,7 +194,7 @@ button.current-section {
     font-family: Flux-Regular, Arial, Helvetica, sans-serif;
     font-size: 2vw;
     background: black;
-    color: white;
+    color: lightsalmon;
     border: 0px;
     padding: 1%;
     position: fixed;
@@ -213,7 +213,7 @@ button.current-section {
 
 .nav {
     width: 100%;
-    border-top: 2px solid white;
+    border-top: 2px solid lightsalmon;
     padding: 1rem;
     height: inherit;
     align-items: center;
@@ -250,7 +250,7 @@ h1.toc {
     font-weight: normal;
     font-style: normal;
     padding-bottom: 3%;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid lightsalmon;
     margin: 0;
 }
 
@@ -272,8 +272,8 @@ button {
 
 button.toc {
     background: transparent;
-    color: white;
-    border: 2px solid white;
+    color: lightsalmon;
+    border: 2px solid lightsalmon;
     border-radius: 15%;
     width: 18vw;
     height: 18vw;
@@ -287,7 +287,7 @@ button.toc {
 
 button.toc:hover {
     color: black;
-    background: white;
+    background: lightsalmon;
 }
 
 /* .acknowledgements div {
@@ -320,7 +320,7 @@ h1.section {
     font-weight: normal;
     font-style: normal;
     font-size: 1.5vw;
-    border: 0.25vh solid white;
+    border: 0.25vh solid lightsalmon;
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;
@@ -333,8 +333,8 @@ h1.section-fill {
     font-weight: normal;
     font-style: normal;
     font-size: 3rem;
-    border: 2px solid white;
-    background: white;
+    border: 2px solid lightsalmon;
+    background: lightsalmon;
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;

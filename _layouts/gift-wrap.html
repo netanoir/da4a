@@ -65,11 +65,12 @@
         {% endif %}
       </li>
       <li> <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a> </li>
-      <!-- <li>
-                {% for page in site.actions %}
-                <a href="../{{page.section-url}}.html"> {{ page.section }} </a>
-                {% endfor %}
-              </li> -->
+      <!-- <li> -->
+        <!-- <a href="{{../../" | relative_url}}" class="nav"> Back to section </a> -->
+        <!-- {% for page in site.actions %}
+        <a href="../{{page.section-url}}.html"> {{ page.section }} </a>
+        {% endfor %} -->
+      <!-- </li> -->
       <li>
         {% if nexturl %}
         <a href="{{ nexturl | relative_url }}">
