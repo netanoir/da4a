@@ -14,6 +14,13 @@ const backgrounds = [
   
   window.onload = (event) => {
     let updateBackground = document.getElementById("section-highlight").style.backgroundImage = openTag + fileDirectory + selectBackgroundFile + closeTag;
+
+    var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+    if (mobile) {
+        alert("Please read this web zine in landscape orientation on a desktop, laptop or tablet for the best reading experience.");              
+    } else {
+  
+    }
   };
 
 let links = document.links;
@@ -22,14 +29,5 @@ for (let i = 0, linksLength = links.length; i < linksLength; i += 1) {
    if (links[i].hostname != window.location.hostname) {
        links[i].target = '_blank';
    } 
-}
-
-window.onload=function(){
-  var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
-  if (mobile) {
-      alert("Please read this web zine in landscape orientation on a desktop, laptop or tablet for the best reading experience.");              
-  } else {
-
-  }
 }
   
