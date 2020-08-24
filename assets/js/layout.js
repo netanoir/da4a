@@ -13,7 +13,7 @@ const backgrounds = [
   let closeTag = "')";
   
   window.onload = (event) => {
-    let updateBackground = document.getElementById("section-highlight").style.backgroundImage = openTag + fileDirectory + selectBackgroundFile + closeTag;
+    document.getElementById("section-highlight").style.backgroundImage = openTag + fileDirectory + selectBackgroundFile + closeTag;
   };
 
 let links = document.links;
@@ -23,4 +23,9 @@ for (let i = 0, linksLength = links.length; i < linksLength; i += 1) {
        links[i].target = '_blank';
    } 
 }
+
+if (navigator.userAgent.match(/Mobile/)) {
+document.getElementById('switch-to-desktop').innerHTML = 'Please read in landscape orientation on a desktop, laptop or tablet for the best reading experience. Thank you!';
+}
+
   

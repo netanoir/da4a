@@ -330,23 +330,6 @@ button.toc:hover {
     background: lightsalmon;
 }
 
-/* .acknowledgements div {
-    margin-top: 1vh;
-    opacity: 0;
-    visibility: hidden;
-    -webkit-transition: visibility 0s, opacity 0.5s linear;
-    transition: visibility 0s, opacity 0.5s linear;
-} */
-
-/* .acknowledgements p {
-    font-size: 1.5vw;
-} */
-
-/* .acknowledgements:hover div {
-    visibility: visible;
-    opacity: 1;
-} */
-
 .section-header {
     display: flex;
     justify-content: center;
@@ -378,6 +361,18 @@ h1.section-fill {
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;
+}
+
+p.mobile { 
+    display: none;
+    color: black;
+    background-color: lightsalmon;
+    padding:  1.5%;;
+    font-size: 2.5vw;
+    font-weight: bold;
+ }
+@media (max-width: 640px) {
+    p.mobile { display: block }
 }
 
 p {
