@@ -25,7 +25,7 @@ for (let i = 0, linksLength = links.length; i < linksLength; i += 1) {
 }
 
 if (navigator.userAgent.match(/Mobile/)) {
-document.getElementById('switch-to-desktop').innerHTML = 'Please read in landscape orientation on a desktop, laptop or tablet for the best reading experience. Thank you!';
+document.getElementById('switch-to-desktop').innerHTML = 'Please view this web zine in landscape orientation on a desktop, laptop or tablet for the best reading experience. Thank you!';
 }
 
   

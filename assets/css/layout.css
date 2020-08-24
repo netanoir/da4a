@@ -148,7 +148,7 @@ h1.title {
     font-weight: bold;
     margin-left: 5.5vw;
     margin-right: 5vw;
-    text-shadow: 5px 5px black;
+    text-shadow: 1vh 1vh black;
 }
 
 .direct {
@@ -344,7 +344,7 @@ h1.section {
     font-weight: normal;
     font-style: normal;
     font-size: 1.5vw;
-    border: 0.vh solid lightsalmon;
+    border: 0.4vh solid lightsalmon;
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;
@@ -356,7 +356,7 @@ h1.section-fill {
     text-align: center;
     font-weight: normal;
     font-style: normal;
-    font-size: 3rem;
+    font-size: 1.5vw;
     border: 0.4vh solid lightsalmon;
     background: lightsalmon;
     border-radius: 14px;
@@ -368,10 +368,9 @@ p.mobile {
     display: none;
     color: black;
     background-color: lightsalmon;
-    padding:  1.5%;;
-    font-size: 3git vw;
-    font-weight: bold;
-    text-align: center;
+    padding:  5%;
+    font-size: 3.25vw;
+    line-height: 100%;
  }
 @media (max-width: 640px) {
     p.mobile { display: block }
@@ -429,7 +428,8 @@ img:hover {
 }
 
 img.arrow {
-    height: 10%;
+    max-height: 10%;
+    max-width: 50%;
     -webkit-filter: none;
     -moz-filter: none;
     -ms-filter: none;
