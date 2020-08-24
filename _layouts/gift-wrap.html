@@ -69,6 +69,11 @@
           <button class="dropbtn" onclick="document.location='{{"/actions/contents.html" | relative_url}}'">Table of
             Contents</button>
           <div class="dropdown-content">
+            <!-- {% if page.url contains 'actions' %}
+            {% for page in site.actions %}
+            <a href="../{{page.section-url}}.html"> {{ page.title }} </a>
+            {% endfor %}
+            {% endif %} -->
             {% if page.url contains 'actions' %}
             <a href="/da4a/actions/debt-strikes/1-debt-strikes.html"> Debt Strikes </a>
             <a href="/da4a/actions/encampments/2-encampments.html"> Encampments </a>
@@ -80,7 +85,6 @@
 
           </div>
         </div>
-        <!-- <a href="{{"/actions/contents.html" | relative_url}}" class="nav">Table of contents</a>  -->
       </li>
       <li>
         {% if nexturl %}
