@@ -2,14 +2,14 @@
 Since the [2012 Chicago teacher’s strike](https://www.washingtonpost.com/blogs/answer-sheet/post/chicago-teachers-strike-the-issues/2012/09/10/8a8173d8-fb69-11e1-b2af-1f7d12fe907a_blog.html), many teachers unions have [bargained not only for themselves but for the common good](https://www.dissentmagazine.org/article/bargaining-common-good-community-union-alignment). Most recently, the Los Angeles Unified School District teachers and their union, United Teachers Los Angeles (UTLA) led a historic strike that ended in January 2019. Their focus was not just to get better wages, but to improve the quality of public education for their students, parents and their neighborhoods.
 
 
-![TK TK](/da4a/assets/images/actions/labor-strikes/la-teachers/Day_1-UTLA_Strike-Jan._14,_2019,_Cars.jpg)
+![TK TK](/assets/images/actions/labor-strikes/la-teachers/Day_1-UTLA_Strike-Jan._14,_2019,_Cars.jpg)
 > UTLA teachers march on downtown Los Angeles, on the first day of the 2019 strike. Image via Mike Chickey.
 
 As [one commentator described](https://www.labornotes.org/blogs/2019/01/la-teachers-showed-us-how-its-done), UTLA members “were swimming against the tide as unions narrowed their focus and tried to stay alive by avoiding risks. The teachers instead wanted their union to aim higher, to build power in the workplace and the larger community.”
 
 Educators came together with parents, students, school staff, and community organizations to develop a shared vision for what needed to change. The teachers did not simply build a short-term coalition in anticipation for a strike, but aimed for deep alignment that could sustain long-term mobilization. [UTLA tried to build deep and authentic relationships with parents and communities](https://medium.com/@UCLALaborCenter/bargaining-for-the-common-good-an-analysis-of-the-los-angeles-teachers-strike-6dc5db7a01b#:~:text=UTLA%20approached%20negotiations%20with%20the,disparate%20impact%2C%20and%20support%20immigrant). For example, parents themselves worked as organizers for the teacher’s union. And many of the teachers behind the movement  identified with their students’ parents, and connected over a shared history of Latinx struggles in Los Angeles. [As one teacher-member explained](https://www.theatlantic.com/education/archive/2019/01/why-los-angeles-teachers-are-striking/580360/), “I see myself in my students in both the literal and metaphorical sense.” 
 
-![TK TK](/da4a/assets/images/actions/labor-strikes/la-teachers/signs-teachers.png)
+![TK TK](/assets/images/actions/labor-strikes/la-teachers/signs-teachers.png)
 > "LA Art Build to Win Public Schools Students Deserve" action by the teachers' union of the educators of the Milwaukee Public School district. Image via [Milwaukee Teachers' Education Association (MTEA)/Flickr](https://www.flickr.com/photos/126164815@N04/albums/72157698723581730).
 
 When UTLA prepared to go on strike, their demands were crafted democratically, and in partnership with the community. As a result, when UTLA went on strike, a much larger community — parents, students, neighborhood members, community based organizations — mobilized to lend support to the picket line. With this support, built on long term deep organizing, the union leadership had the mandate to strike a hard bargain.
