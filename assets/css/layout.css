@@ -142,7 +142,7 @@ a:hover {
 
 h1.title {
     font-family: Flux-Bold, Helvetica, sans-serif;
-    font-size: 6vw;
+    font-size: 5.5vw;
     text-transform: uppercase;
     font-style: normal;
     font-weight: bold;
@@ -152,7 +152,7 @@ h1.title {
 }
 
 .direct {
-    margin-top: 2vh;
+    margin-top: 1vh;
     transform: rotate(10deg);
     text-align: center;
 }
