@@ -284,17 +284,6 @@ li:first-of-type::after {
     font-family: Courier, monospace;
 }
 
-/* 
-h1.toc {
-    font-family: Courier, monospace;
-    font-size: 3rem;
-    font-weight: normal;
-    font-style: normal;
-    padding-bottom: 3%;
-    border-bottom: 0.4vh solid lightsalmon;
-    margin: 0;
-} */
-
 .toc-stack {
     display: flex;
     align-items: center;
@@ -344,7 +333,7 @@ h1.section {
     font-weight: normal;
     font-style: normal;
     font-size: 1.5vw;
-    border: 0.4vh solid lightsalmon;
+    border: 0.3vh solid lightsalmon;
     border-radius: 14px;
     margin: 0px auto;
     padding: 2%;
@@ -357,7 +346,7 @@ h1.section-fill {
     font-weight: normal;
     font-style: normal;
     font-size: 1.5vw;
-    border: 0.4vh solid lightsalmon;
+    border: 0.3vh solid lightsalmon;
     background: lightsalmon;
     border-radius: 14px;
     margin: 0px auto;
