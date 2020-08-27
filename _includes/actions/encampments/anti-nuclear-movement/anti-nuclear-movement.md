@@ -7,7 +7,7 @@ The Clamshell Alliance, which formed in 1976 as part of the antinuclear and envi
 > “The Clamshell is a coalition of groups that came together last year after all legal attempts to stop Seabrook had failed,” explained Anna Gyorgy [an organizer with the Clamshell Alliance]. Image via Ed Heddman, Grace Heddman, Gale Jackson and Jennifer Kraar. Published by [War Resisters League](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299740~90070739:Nuclear-America-), 1979.
 
 
-Gyorgy said that the coalition heard about an occupation of a nuclear site in West Germany, and activism in Denmark that forced the Danish government to cancel six nuclear plants there.
+**"**Gyorgy said that the coalition heard about an occupation of a nuclear site in West Germany, and activism in Denmark that forced the Danish government to cancel six nuclear plants there.
 
 ![TK TK](/assets/images/actions/encampments/anti-nuclear-movement/skulls.jpg)
 > Image via [Peg Averill, War Resisters League](https://postermuseum.com/products/no-nuclear-terror-power-or-weapons).
@@ -24,4 +24,4 @@ Accordingly, on April 30th, no one was allowed on the Seabrook site who had not 
 ![TK TK](/assets/images/actions/encampments/anti-nuclear-movement/cows.png)
 > Image via mage via [Interference Archive](https://interferencearchive.org/).
 
-On April 30th 2000 men and women came to Seabrook prepared for arrest and incarceration. Every one of them had been trained in nonviolent civil disobedience. Marching from four directions, carrying heavy backpacks, singing, yipping and hooting, they converged on the site of a proposed nuclear power plant and sat there for 23 hours. Six hundred media people had been invited; more than 400 came. In order to prevent violence, the Clamshell had informed the governor’s office and the police of its every move in advance. The Clamshell’s video crew recorded the event. On May Day the arrests began. It took state troopers from five New England states 15 hours to remove all the occupiers.
+On April 30th 2000 men and women came to Seabrook prepared for arrest and incarceration. Every one of them had been trained in nonviolent civil disobedience. Marching from four directions, carrying heavy backpacks, singing, yipping and hooting, they converged on the site of a proposed nuclear power plant and sat there for 23 hours. Six hundred media people had been invited; more than 400 came. In order to prevent violence, the Clamshell had informed the governor’s office and the police of its every move in advance. The Clamshell’s video crew recorded the event. On May Day the arrests began. It took state troopers from five New England states 15 hours to remove all the occupiers.**"**

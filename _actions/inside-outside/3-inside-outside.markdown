@@ -26,4 +26,4 @@ _The [Abolitionist](https://abolitionistpaper.wordpress.com/2018/12/14/organizin
 
 “Collaborating across prison walls is strategic, in that it brings to bear the immense capacity, analysis, and creativity of those who are locked down and locked out by the prison industrial complex together with those on the outside. It lessens the burden of people who for too long have shouldered the weight of their loved ones’ incarceration alone and in the shadows. Fear and shame are being replaced with realization that they are not alone, that their neighbors, coworkers, fellow parishioners are also doing time on the outside.
 
-As we chip away at the walls — together — we’re building bonds that transcend and will outlast our mission. And it’s making those walls feel just a little less concrete — until the day they come crumbling down. 
+As we chip away at the walls — together — we’re building bonds that transcend and will outlast our mission. And it’s making those walls feel just a little less concrete — until the day they come crumbling down."
