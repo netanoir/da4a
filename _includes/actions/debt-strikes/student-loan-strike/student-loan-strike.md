@@ -1,6 +1,6 @@
 One organization that has leveraged collective power by offering debtors a shared platform for making demands and taking direct action is the Debt Collective.
 
-![TK TK](/assets/images/actions/debt-strikes/student-loan-strike/ball-and-chain.jpg)
+![A black ball and chain is emblazoned with the words “STUDENT LOANS.”](/assets/images/actions/debt-strikes/student-loan-strike/ball-and-chain.jpg)
 > Washington, D.C. October 10, 2016. The Stop the Machine protest, also joined by already on-going Occupy DC protests (then in their sixth day), an offshoot of the Occupy Wall Street protests in New York City. Image via [thisisbossi/Flickr](https://www.flickr.com/photos/thisisbossi/).
 
 

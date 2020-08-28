@@ -17,7 +17,7 @@ Both Marissa and Bresha’s freedom campaigns were inspired by the 1974 effort t
 
 Eventually, after a five-week trial and 78 minutes of deliberation, Joan Little was acquitted by a jury and returned to prison to serve time for her original offense, which was a break-in. The case is recognized as the first time a woman was acquitted of murder on the grounds of self-defense against rape. It continues to stand as a testament to Black women’s resistance to subjugation and sexual predation.
 
-![Artistic portrait of Joan Little](/assets/images/actions/inside-outside/free-joan-little/joan-little-micah-bizant.jpg)
+![An ink drawing illustrates a Black woman with an Afro. Her index finger is perched thoughtfully on her lips. She wears a blazer and collared shirt. Her name, “Joan Little,” is written in the top left corner. This portrait was created for Project NIA’s exhibition, “No Selves To Defend — 10 Women Criminalized For Defending Themselves.” Image via Micah Bizant.](/assets/images/actions/inside-outside/free-joan-little/joan-little-micah-bizant.jpg)
 > Portrait of Joan Little created for [Project NIA](http://www.project-nia.org)'s exhibition "[No Selves To Defend — 10 Women Criminalized For Defending Themselves](https://noselves2defend.tumblr.com)." Image via [Micah Bizant](https://www.micahbazant.comhttps://www.micahbazant.com).
 
 The #FreeBresha and #FreeMarissaNow campaigns, like the Free Joan Little defense campaign that came before it, have taken great pains to underscore that each survivor is one among thousands of Black women and girls who have been and continue to be criminalized for trying to survive. The message now, as it was then, is that all of the Joans, Marissas, and Breshas should be free.**"**

@@ -3,14 +3,14 @@ The Clamshell Alliance, which formed in 1976 as part of the antinuclear and envi
 *The following is an excerpt from a 1977 _Rolling Stones_ article, “[The Clamshell Alliance Holds Nukes at Bay](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/),” by Michael Aron.*
 
 
-![TK TK](/assets/images/actions/encampments/anti-nuclear-movement/nuclear-america.jpg)
+![A map of the United States is spotted with red blobs that  indicate all of the places where nuclear testing has happened. A title above the map reads “Nuclear America.”](/assets/images/actions/encampments/anti-nuclear-movement/nuclear-america.jpg)
 > “The Clamshell is a coalition of groups that came together last year after all legal attempts to stop Seabrook had failed,” explained Anna Gyorgy [an organizer with the Clamshell Alliance]. Image via Ed Heddman, Grace Heddman, Gale Jackson and Jennifer Kraar. Published by [War Resisters League](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299740~90070739:Nuclear-America-), 1979.
 
 
 **"**Gyorgy said that the coalition heard about an occupation of a nuclear site in West Germany, and activism in Denmark that forced the Danish government to cancel six nuclear plants there.
 
-![TK TK](/assets/images/actions/encampments/anti-nuclear-movement/skulls.jpg)
-> Image via [Peg Averill, War Resisters League](https://postermuseum.com/products/no-nuclear-terror-power-or-weapons).
+![A drawing of two skeletons, both wearing suits and ties. Across their bodies are the words “No Nuclear Terror - Power or Weapons!” ](/assets/images/actions/encampments/anti-nuclear-movement/skulls.jpg)
+> A drawing of two skeletons, both wearing suits and ties. Across their bodies are the words “No Nuclear Terror - Power or Weapons!” Image via [Peg Averill, War Resisters League](https://postermuseum.com/products/no-nuclear-terror-power-or-weapons).
 
 Inspired by the Europeans’ successes, the New England people began talking about direct action. In the bitter cold of January 1976 a 22-year-old apple picker named Ron Rieck camped for 36 hours in a weather tower. In April 1976 nearly 300 people walked onto the Seabrook site and spent a peaceful day there.
 
