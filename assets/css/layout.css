@@ -333,7 +333,7 @@ button.language {
     position: absolute;
     bottom: 22%;
     left: 0%; 
-    transform: scale(0.625) skew(-3deg, -3deg);; 
+    transform: scale(0.625) skew(-3deg, -3deg);
 }
 
 .language:hover {
